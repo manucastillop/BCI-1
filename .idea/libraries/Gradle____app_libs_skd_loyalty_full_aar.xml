@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/skd-loyalty-full.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0c6cccddca05e433a07e36051ccf9893/transformed/skd-loyalty-full/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0c6cccddca05e433a07e36051ccf9893/transformed/skd-loyalty-full/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0c6cccddca05e433a07e36051ccf9893/transformed/skd-loyalty-full/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
